@@ -1,0 +1,1 @@
+# Altium-Library-for-SIMCom-A7672S
